@@ -1,5 +1,6 @@
 # pharout
-Testing grounds for Phars
+Testing grounds for `Phar`s.
+a Phar is a PHP archive file. We are interested in using it as a way to reduce Disk IO when loading php files in to memory.
 
 ## Testing Steps
 1. Delete `test.phar`
